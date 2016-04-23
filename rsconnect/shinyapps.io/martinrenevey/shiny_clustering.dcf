@@ -1,0 +1,9 @@
+name: shiny_clustering
+account: martinrenevey
+server: shinyapps.io
+appId: 97334
+bundleId: 431205
+url: https://martinrenevey.shinyapps.io/shiny_clustering/
+when: 1461454380.82571
+asMultiple: FALSE
+asStatic: FALSE
